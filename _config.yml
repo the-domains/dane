@@ -1,7 +1,7 @@
-name: null
+name: Dane
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.09845422487705946
+typography_spectrum: 0.5145451570861042
 cta:
   domain: null
   bucket: null
@@ -19,4 +19,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.7010147024411708
 purpose: []
